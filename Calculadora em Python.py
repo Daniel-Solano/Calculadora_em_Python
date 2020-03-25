@@ -37,4 +37,3 @@ if oper == 1 or oper == 2 or oper == 3 or oper == 4:
           
 else:
     erro() 
-# Criação de segunda linha de teste
